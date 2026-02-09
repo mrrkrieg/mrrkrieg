@@ -147,6 +147,6 @@ After that, I moved to the US and worked on growth across multiple startups. Eve
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN5CwWgMfmMVTdayLdAZJv7qTnyzM6ckMbw&s" height="40" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwftIFDrXzjrTMVnod3oB8enWdsi0wsR7izA&s" height="40" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/04/microsoft_power_bi-logo_brandlogos.net_1gwgj-512x667.png" height="40" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ytPbLb2Hf9MXm2zfn0P7uOI86QOYxIBGEg&s" height="40" />
+  <img src="https://media.licdn.com/dms/image/v2/C560BAQEFnYhpwGfSgQ/company-logo_200_200/company-logo_200_200/0/1656698401379/heap_inc__logo?e=2147483647&v=beta&t=mt5YBp7KVr_NnZkd_uTUYXxQZiyPrCHJw0vkDl84Nms" height="40" />
   <img src="https://yt3.googleusercontent.com/46J5M53CFE1sJKFA4P7e-qE_FG0GL24gXD7mmJkrRnJHYDYQLQcHA8VW2mkmiecaA9OEfaOO6w=s900-c-k-c0x00ffffff-no-rj" height="40" />
 </p>
