@@ -62,6 +62,7 @@ After that, I moved to the US and worked on growth across multiple startups. Eve
   <img src="https://lovable.dev/img/logo/lovable-icon-bg-dark.png" height="36" />
   <img src="https://pbs.twimg.com/profile_images/1774844664383987715/eJ2WA45U_400x400.jpg" height="36" />
   <img src="https://antigravity.google/assets/image/antigravity-logo.png" height="36" />
+  <img src="https://images.ctfassets.net/kftzwdyauwt9/YgXvGzKvVcDvpJGOFyroe/777616dd860276400c9c955688dce373/codex-app.png.png" height="36" />
 </p>
 
 <p align="left">
