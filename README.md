@@ -28,6 +28,7 @@ I work at the intersection of engineering, distribution, and growth mechanics. I
 <img src="https://images.ctfassets.net/kftzwdyauwt9/YgXvGzKvVcDvpJGOFyroe/777616dd860276400c9c955688dce373/codex-app.png.png" height="36" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="36" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="36" />
+<img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" height="36" />
 <img src="https://avatars.slack-edge.com/2022-08-02/3888649620612_f864dc1bb794cf7d82b0_512.png" height="36" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqCuV03iao2jPkADDg4-UEtvLa_bdNbntiw&s" height="36" />
 
