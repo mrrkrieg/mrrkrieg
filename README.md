@@ -1,8 +1,15 @@
-## 🤖 About Me
+## `$ whoami`
 
-I work at the intersection of engineering, distribution, and growth mechanics. I don’t separate product from growth — if it doesn’t get adopted, it’s not finished.
+I'm Dan.
 
-## 💻 Stack
+Founder.
+
+I work at the intersection of engineering, distribution, and growth mechanics. 
+
+I don’t separate product from growth.
+If it doesn’t get adopted, it’s not finished.
+
+## `$ stack`
 
 <p align="left">
 
