@@ -2,14 +2,33 @@
 
 I'm Dan.
 
-Founder.
+Founder, builder, and systems thinker working at the intersection of engineering, distribution, and growth mechanics.
 
-I work at the intersection of engineering, distribution, and growth mechanics. 
+I care about products that move from idea → execution → adoption.  
+To me, a product is not finished when it works. It is finished when it reaches people, changes behavior, and earns its place in the world.
 
-I don’t separate product from growth.
-If it doesn’t get adopted, it’s not finished.
+The best systems are not just technically correct — they are useful, adopted, and compounding.
+
+## `$ optimizing_for_the_future`
+
+I believe future outcomes are shaped less by what you know today and more by who you are becoming.
+
+The durable advantages are not only technical skills. They are discipline, taste, judgment, emotional control, curiosity, and the ability to keep moving when things are unclear.
+
+I optimize for:
+
+- Discipline — doing the important thing before it becomes urgent.
+- Execution speed — finding the shortest honest path from idea to reality.
+- Zooming out — seeing the system, not just the task.
+- Leverage — building things that compound beyond the original effort.
+- Adaptability — updating quickly when reality gives better information.
+- Taste — knowing when something is not just functional, but right.
+
+The goal is to become the kind of person who is structurally more likely to win over time.
 
 ## `$ stack`
+
+This is a high-level snapshot of the tools, systems, and infrastructure I work across — not a complete list.
 
 <p align="left">
 
