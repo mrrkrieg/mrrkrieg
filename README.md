@@ -15,16 +15,9 @@ I believe future outcomes are shaped less by what you know today and more by who
 
 The durable advantages are not only technical skills. They are discipline, taste, judgment, emotional control, curiosity, and the ability to keep moving when things are unclear.
 
-I optimize for:
-
-- Discipline — doing the important thing before it becomes urgent.
-- Execution speed — finding the shortest honest path from idea to reality.
-- Zooming out — seeing the system, not just the task.
-- Leverage — building things that compound beyond the original effort.
-- Adaptability — updating quickly when reality gives better information.
-- Taste — knowing when something is not just functional, but right.
-
 The goal is to become the kind of person who is structurally more likely to win over time.
+
+I try to produce more value today, solve bigger problems tomorrow, and earn more ownership over time.
 
 ## `$ stack`
 
