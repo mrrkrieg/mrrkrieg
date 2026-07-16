@@ -7,11 +7,7 @@ Founder, builder, and systems thinker working at the intersection of engineering
 I care about products that move from idea → execution → adoption.  
 To me, a product is not finished when it works. It is finished when it reaches people, changes behavior, and earns its place in the world.
 
-The best systems are not just technically correct — they are useful, adopted, and compounding.
-
 ## `$ optimizing_for_the_future`
-
-I believe future outcomes are shaped less by what you know today and more by who you are becoming.
 
 The durable advantages are not only technical skills. They are discipline, taste, judgment, emotional control, curiosity, and the ability to keep moving when things are unclear.
 
