@@ -2,7 +2,7 @@
 
 I'm Dan.
 
-Founder, builder, and systems thinker working at the intersection of engineering, distribution, and growth mechanics.
+Founder, builder, and systems thinker working at the intersection of engineering, and distribution.
 
 I care about products that move from idea → execution → adoption.  
 To me, a product is not finished when it works. It is finished when it reaches people, changes behavior, and earns its place in the world.
